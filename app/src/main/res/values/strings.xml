@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ToastProject</string>
+
+    <style name="toastTextStyle" parent="TextAppearance.AppCompat">
+        <item name="android:fontFamily">sans-serif-black</item>
+    </style>
+</resources>
